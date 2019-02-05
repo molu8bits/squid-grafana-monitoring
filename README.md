@@ -8,7 +8,7 @@ Example Grafana dashboards
 
 
 # Idea
-Squid shares its ststistics via SNMP.
+Squid shares its statistics via SNMP.
 Metrics are scraped by another host using Telegraf SNMP feature. Telegraf saves metrics into InfluxDB.
 Charts are presented in Grafana.
 
